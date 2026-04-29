@@ -1,4 +1,4 @@
-# 1. Configuación inicial-------------------------------------------------------
+# 1. Configuración inicial-------------------------------------------------------
   # Script: Cyclistic_Marketing_Proyect
   # Autor: Diego L. Villavicencio Merino
   # Fecha: 08-07-2025
