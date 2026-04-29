@@ -28,10 +28,10 @@ Este análisis responde a la pregunta: **¿En qué se diferencia el uso de las b
 Los miembros premium utilizan el servicio de forma consistente durante los días hábiles, con picos marcados en las horas de entrada y salida del trabajo, lo que indica un uso orientado a la **movilidad urbana diaria**. Los usuarios casuales, en contraste, concentran sus viajes en fines de semana y en las últimas horas del día, con duraciones promedio significativamente mayores, lo que refleja un uso predominantemente **recreativo y de ocio**.
 
 ### 2. Concentración geográfica de usuarios casuales
-Las estaciones con mayor afluencia de usuarios casuales - encabezadas por *Streeter Dr & Grand Ave* (2.955 viajes), *DuSable Lake Shore Dr & Monroe St* (1.934) y *DuSable Lake Shore Dr & North Blvd* (1.667) — se ubican en zonas costeras, parques y puntos turísticos del lago Michigan. Esta concentración geográfica permite **focalizar la estrategia de marketing** en puntos de alta visibilidad y afluencia de público objetivo.
+Las estaciones con mayor afluencia de usuarios casuales - encabezadas por *Streeter Dr & Grand Ave* (2.955 viajes), *DuSable Lake Shore Dr & Monroe St* (1.934) y *DuSable Lake Shore Dr & North Blvd* (1.667) se ubican en zonas costeras, parques y puntos turísticos del lago Michigan. Esta concentración geográfica permite **focalizar la estrategia de marketing** en puntos de alta visibilidad y afluencia de público objetivo.
 
 ### 3. Oportunidad de conversión mediante salud y bienestar
-Los usuarios casuales que ya utilizan el servicio de forma regular presentan un perfil receptivo a mensajes orientados a los beneficios para la salud cardiovascular y el bienestar físico. Una campaña que posicione la membresía anual como una herramienta de **rutina de ejercicio accesible y urbana** — combinada con el ahorro económico frente al pago por viaje — representa una palanca de conversión con alto potencial.
+Los usuarios casuales que ya utilizan el servicio de forma regular presentan un perfil receptivo a mensajes orientados a los beneficios para la salud cardiovascular y el bienestar físico. Una campaña que posicione la membresía anual como una herramienta de **rutina de ejercicio accesible y urbana** combinada con el ahorro económico frente al pago por viaje representa una palanca de conversión con alto potencial.
 
 ---
 
