@@ -1,6 +1,6 @@
-# 🚲 Cyclistic Bike-Share — Análisis de Comportamiento de Usuarios
+# Estrategia de Conversión de Clientes: Análisis de Patrones de Uso y Factibilidad de Mercado para Suscripciones.
 
-Proyecto de análisis de datos desarrollado como parte **Google Data Analytics Capstone Project**. El objetivo es identificar diferencias de comportamiento entre usuarios miembros y casuales del servicio de bicicletas compartidas Cyclistic (Chicago, 2024), con el fin de diseñar una estrategia de marketing orientada a convertir usuarios casuales en miembros anuales.
+Un estudio analítico orientado a identificar disparidades de comportamiento entre usuarios casuales y recurrentes. Mediante el análisis de geolocalización y frecuencia de uso, se definen los pilares de una campaña de marketing segmentada que maximiza la migración hacia modelos de membresía.
 
 > Análisis realizado íntegramente en **R**.
 
